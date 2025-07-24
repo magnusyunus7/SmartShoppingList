@@ -51,7 +51,7 @@ SmartShoppingList/
 
 │ │ └── drawable/
 
-├── APK/
+├── release/
 
 │ └── SmartShoppingList.apk
 
