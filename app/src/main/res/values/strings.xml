@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Smart Shopping List</string>
+    <string-array name="item_categories">
+        <item>Category</item>
+        <item>Fruits</item>
+        <item>Vegetables</item>
+        <item>Meat</item>
+        <item>Dairy</item>
+        <item>Snacks</item>
+        <item>Beverages</item>
+        <item>Condiments and Sauces</item>
+        <item>Spices and Seasoning</item>
+        <item>Oils and Vinegar</item>
+        <item>Others</item>
+    </string-array>
+</resources>
