@@ -28,18 +28,31 @@ SmartShoppingList is a lightweight Android app that helps users manage their sho
 ## Project Structure
 
 SmartShoppingList/
+
 ├── app/
+
 │ ├── java/com.example.smartshoppinglist/
+
 │ │ ├── MainActivity.java
+
 │ │ ├── PurchaseHistoryActivity.java
+
 │ │ ├── ItemAdapter.java
+
 │ │ ├── HistoryAdapter.java
+
 │ │ ├── PurchaseHistoryItem.java
+
 │ │ └── PurchaseHistoryManager.java
+
 │ ├── res/
+
 │ │ ├── layout/
+
 │ │ └── drawable/
+
 ├── APK/
+
 │ └── SmartShoppingList.apk
 
 ## Notes
